@@ -1,0 +1,14 @@
+
+本期订阅链接，更新时需要走代理
+
+V2ray/Shadowrocket/Quantumult X订阅：
+
+https://drive.google.com/uc?export=download&id=1UwvWRqtw4Bgtlq8eJ74qJks9TPizACGf
+==========================================================
+Clash/Shadowrocket/Quantumult X订阅：
+
+https://drive.google.com/uc?export=download&id=1flfGZSKmIQlN13VrIqYfvtvbcZyefua1
+
+Quantumult X需要添加资源解析器
+打开Quantumult X主界面点击右下角 三菱按钮 - 下滑找到 配置文件 - 点击编辑在Quantumult X 配置文件中找到[general] 部分，并在[general]下方粘贴：resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js 
+粘贴好后，点击右上角保存
